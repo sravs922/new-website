@@ -1,0 +1,979 @@
+
+.text .navbar-brand {
+    font-family: Nunito, sans-serif;
+   font-style:normal;
+  font-weight:700;
+ color:  rgb(23, 162, 184);
+ font-size:50px;
+  line-height:75px;
+}
+.navbrand img{
+    font-family:Nunito, sans-serif;
+    font-style:italic;
+    font-weight:700;
+     color:rgb(0, 2, 3);
+     font-size:50px;
+     line-height:75px;
+}
+.navbar-expand-sm .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    margin-left: 200px;
+}
+.links {
+    display: block;
+    padding: 0.5rem 1rem;
+    color:black;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    font-Family:Nunito, sans-serif;
+    font-style:normal;
+    font-weight:700;
+    font-size:16px;
+    line-height:24px;
+
+
+
+}
+
+.links:hover{
+    color:rgb(23, 162, 184);
+
+}
+
+
+.join {
+    border:none;
+    background-color:#17a2b8;
+    color:rgb(255, 255, 255);
+    border-radius:50px;
+    padding:10px 20px 10px 20px;
+    font-Family:Nunito, sans-serif;
+    font-style:normal;
+    font-weight:400;
+   font-size:16px;
+    line-height:24px;
+    margin-left:200px;
+
+}
+.join:hover{
+  background-color:rgb(48, 138, 150);
+ 
+}
+.join a{
+    text-decoration:none;
+    color:rgb(255, 255, 255);
+}
+.join a:hover{
+    color:white;
+}
+.header{
+    background-color:#17a2b8;
+
+}
+.content {
+    text-align:left;
+    padding:200px 50px 200px 50px;
+    color:rgb(255, 255, 255);
+}
+.content h2{
+    font-Family:Handlee, cursive;
+   font-style:normal;
+   font-weight:700;
+   color: rgb(255, 255, 255);
+   font-size:24px;
+  line-height:29px;
+  padding-bottom:15px;
+  
+}
+.content h1{
+    font-Family:Handlee, cursive;
+    font-style:normal;
+    font-weight:500;
+    font-size:72px;
+    line-height:86px;
+    padding-bottom:15px;
+}
+.content p{
+   font-Family:Nunito, sans-serif;
+   font-weight:400;
+   font-style:normal;
+   font-size:16px;
+   line-height:24px;
+ padding-bottom:15px;
+}
+.content-btn{
+    background-color:#00394f;
+    color:white;
+    border:none;
+    border-radius:25px;
+    padding:15px 50px 15px 50px;
+    font-size:16px;
+
+}
+.content-btn:hover{
+    background-color:#012736;
+}
+.content-btn a{
+    text-decoration:none;
+    color:white;
+}
+.content-btn a:hover{
+    color:white;
+}
+.bj-image img{
+    width:100%;
+    padding:50px 50px 0px 0px;
+}
+.heading{
+    padding:100px 0px 0px 0px;
+}
+.boxes{
+    border-top: 1px solid #dee2e6;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) ;
+   border-radius:15px;
+   margin:10px;
+   padding:20px 10px 10px 0px;
+}
+.icons img{
+width:50%;
+margin-left:45px;
+}
+.boxes1{
+    border-top:1px solid #dee2e6;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) ;
+    border-radius:15px;
+    margin:10px;
+    padding:20px 10px 10px 0px;
+}
+
+.icons1 img{
+    width:50%;
+    margin-left:45px;
+    }
+    .text h2{
+     font-Family:  Handlee, cursive;
+      font-style:normal;
+      font-weight:700;
+      color: rgb(0, 57, 79);
+      font-size:24px;
+      line-height:29px;
+        
+    }
+.text p{
+ font-Family:Nunito, sans-serif;
+font-style:normal;
+font-weight:400;
+color:rgb(102, 102, 102);
+font-size:16px;
+line-height:24px;
+
+}
+.text1 h2{
+    font-Family:  Handlee, cursive;
+    font-style:normal;
+    font-weight:700;
+    color: rgb(0, 57, 79);
+    font-size:24px;
+    line-height:29px;
+}
+.text1 p{
+    font-Family:Nunito, sans-serif;
+font-style:normal;
+font-weight:400;
+color:rgb(102, 102, 102);
+font-size:16px;
+line-height:24px;
+
+}
+
+.about{
+    padding:75px 0px 0px 0px;
+}
+.bg-img img{
+    width:500px;
+    height:600px;
+  
+    border-radius:15px;
+}
+
+.texter h2 {
+    position: relative;
+    display: inline-block;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #17a2b8;
+  font-Family:Nunito, sans-serif;
+  font-style:normal;
+  font-weight:400;
+  font-size:16px;
+line-height:24px;
+
+}
+.texter h1{
+ font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:700;
+color:rgb(0, 57, 79);
+font-size:40px;
+line-height:48px;
+padding-top:15px;
+
+}
+.texter p{
+  font-Family:Nunito, sans-serif;
+  font-style:normal;
+  font-weight:400;
+  color:rgb(102, 102, 102);
+font-size:18px;
+line-height:24px;
+padding-top:25px;
+}
+
+.align-items-center{
+    align-items:center;
+}
+.img-fluid{
+    padding-top:15px;
+}
+.img-fact img{
+  
+    width:100%;
+    border-radius:15px ;
+}
+.form{
+    padding-top:15px;
+   
+}
+.form ul {
+ list-style-type: none;
+}
+.text-icon{
+    color:#17a2b8;
+    font-size:20px;
+}
+.mr-3{
+    margin-right:10px;
+}
+.form-button{
+  margin-top:30px;
+border:none;
+background-color:#17a2b8;
+border-radius:50px;
+padding:10px 25px 10px 25px;
+color:white;
+font-size:16px;
+font-family:Nunito, sans-serif;
+}
+.form-button:hover{
+ background-color:rgb(48, 138, 150);
+}
+.form-button a{
+    color:white;
+    text-decoration:none;
+}
+.form-button a:hover{
+    color:white;
+}
+.popular{
+    padding:100px 0px 0px 0px;
+    text-align:center;
+}
+.popular h3{
+ font-Family:Nunito, sans-serif;
+font-style:normal;
+font-weight:700;
+color:rgb(23, 162, 184);
+ font-Size:20px;
+line-height:24px;
+padding-bottom:5px;
+
+}
+.popular h1{
+ font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:700;
+color:rgb(0, 57, 79);
+font-size:40px;
+line-height:48px;
+padding-bottom:20px;
+
+}
+img{
+    border-radius:10px;
+}
+.text-right{
+    text-align:right;
+
+}
+.border-right{
+  border-right: 1px solid #dee2e6;
+}
+.cards-footer{
+    border-top: 1px solid rgba(0,0,0,.125);
+ 
+}
+.card-body h1{
+ font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:700;
+color:rgb(0, 57, 79);
+font-size:24px;
+line-height:29px;
+}
+.card-body p{
+ font-Family:Nunito, sans-serif;
+ font-style:normal;
+font-weight:400;
+color:rgb(102, 102, 102);
+font-size:16px;
+line-height:24px;
+}
+.text-2{
+ font-Family:Nunito, sans-serif;
+font-style:normal;
+font-weight:700;
+color:rgb(102, 102, 102);
+font-size:16px;
+line-height:24px;
+}
+.text-3 p{
+ font-Family:  Nunito, sans-serif;
+  font-style:normal;
+ font-weight:400;
+   color:rgb(102, 102, 102);
+ font-size:16px;
+  line-height:24px;
+}
+.heading-1{
+    padding:100px 0px 0px 0px;
+}
+
+.content-type h2{
+ font-Family: Nunito, sans-serif;
+   font-style:normal;
+font-weight:400;
+color: rgb(23, 162, 184);
+ font-size:16px;
+ line-height:24px;
+ padding-bottom:10px;
+}
+.content-type h1{
+ font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:700;
+color:rgb(0, 57, 79);
+font-size:40px;
+line-height:48px;
+padding-bottom:25px;
+}
+.content-type p{
+ font-Family:Nunito, sans-serif;
+font-style:normal;
+font-weight:400;
+color:rgb(102, 102, 102);
+font-size:19px;
+line-height:24px;
+padding-bottom:25px;
+}
+.form1{
+    margin-right:0px;
+    text-align:left;
+}
+.form1 li{
+list-style-type: none;
+}
+.form1 i{
+    color:green;
+}
+.form1 li{
+  font-Family:Nunito, sans-serif;
+  font-style:normal;
+font-weight:400;
+color:rgb(102, 102, 102);
+font-size:16px;
+line-height:24px;
+padding-bottom:30px;
+}
+.button-2{
+    border:none;
+    border-radius:50px;
+    background-color:#17a2b8;
+    padding:10px 25px 10px 25px;
+}
+.button-2 a{
+    color:white;
+    text-decoration:none;
+}
+.button-2 a:hover{
+    color:white;
+}
+.button-2:hover{
+    background-color:rgb(48, 138, 150);
+}
+.content-form{
+    background-color:#00394f;
+    text-align:center;
+    padding:25px;
+    color:white;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+ 
+   
+}
+.content-form1{
+  padding:25px;
+  background-color:#17a2b8;
+  padding:50px 50px 50px 50px;
+}
+.content-form1 input {
+width:100%;
+border:none;
+border-radius:5px;
+padding:10px;
+font-size:16px;
+margin:10px;
+}
+.content-form1 select{
+    width:100%;
+    border:none;
+    border-radius:5px;
+    padding:10px;
+    font-size:16px;
+    margin:10px;
+}
+.form1-button {
+    width:100%;
+    background-color:#00394f;
+    color:white;
+    padding:15px 25px 15px 25px;
+    border:none;
+    border-radius:50px;
+}
+.form1-button:hover{
+    background-color:#012736;
+}
+.form1-button a{
+    text-decoration:none;
+    color:white;
+    font-size:16px;
+}
+
+.form1-button a:hover{
+    color:white;
+}
+.teachers{
+    padding-top:75px;
+    text-align:center;
+}
+.teachers h2{
+font-family:Nunito, sans-serif;
+font-style:normal;
+font-weight:400;
+color:rgb(23, 162, 184);
+font-size:16px;
+line-height:24px;
+
+}
+.teachers h1{
+font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:600;
+color:rgb(0, 57, 79);
+font-size:40px;
+line-height:48px;
+padding-bottom:25px;
+}
+.teacher-image img{
+    border-radius:50%;
+    width:100%;
+ object-fit:cover;
+    padding-bottom:20px;
+    position:relative;
+    overflow:hidden;
+}
+
+.teacher-image h3{
+  font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:700;
+Color:rgb(0, 57, 79);
+font-size:24px;
+line-height:29px;
+}
+.teacher-image p{
+ font-Family:Nunito, sans-serif;
+font-style:italic;
+font-weight:400;
+color:rgb(102, 102, 102);
+font-size:16px;
+line-height:24px;
+
+}
+.social-media {
+  bottom:-3130px;
+    position:absolute;
+    margin-left:50px;
+    text-align:center;
+  
+display:none;
+   
+}
+.social-media i{
+    border-radius:50%;
+    font-size:15px;
+    width:100%;
+    background-color:white;
+    padding:15px 20px;
+    margin:5px;
+}
+.social-media i:hover{
+    background-color:black;
+    color:white;
+}
+
+.teacher-image img  .social-media {
+    background-color:#17a2b8;
+    transition:.5s;
+    top:0;
+    opacity:0;
+    z-index:1;
+}
+
+.testi{
+    padding-top:75px;
+    text-align:center;
+}
+.testi h2{
+ font-Family:Nunito, sans-serif;
+font-style:normal;
+font-weight:400;
+Color:rgb(23, 162, 184);
+font-size:16px;
+line-height:24px;
+
+
+}
+.testi h1{
+ font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:700;
+Color:rgb(0, 57, 79);
+font-size:40px;
+line-height:48px;
+padding-bottom:25px;
+}
+.testi-card{
+    box-shadow:0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) ;
+    border-radius:15px;
+}
+.quote {
+    margin-left:75px;
+    font-size:50px;
+    color:#17a2b8;
+}
+.quote-text p{
+ font-Family:Nunito, sans-serif;
+font-style:normal;
+font-weight:400;
+color:rgb(102, 102, 102);
+font-size:16px;
+line-height:24px;
+margin-right:45px;
+}
+.testi-all{
+    padding:15px 0px 0px 0px;
+}
+.testi-text-all{
+    padding:30px 0px 0px 0px;
+}
+.testi-fluid img{
+    margin-left:75px;
+    border-radius:50%;
+    width:75%;
+   
+}
+.testi-fluid-text{
+margin-right:45px;
+}
+.testi-fluid-text h2{
+ font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:700;
+color:rgb(0, 57, 79);
+font-size:20px;
+line-height:24px;
+
+}
+.testi-fluid-text p{
+    font-family: Nunito, sans-serif;
+   font-style:italic;
+  font-weight:400;
+  color:  rgb(102, 102, 102);
+font-size:16px;
+   line-height:24px;
+}
+.blog{
+    padding:100px 0px 100px 0px;
+    text-align:center;
+}
+.blog h2{
+   font-Family:Nunito, sans-serif;
+  font-style:normal;
+  font-weight:400;
+  color: rgb(23, 162, 184) ;
+  font-Size:16px;
+ line-height:24px;
+  
+}
+.blog h1{
+ font-Family:Handlee, cursive;
+ font-style:normal;
+  font-weight:700;
+    Color: rgb(0, 57, 79);
+   font-size:40px;
+   line-height:48px;
+   padding-bottom:25px;
+}
+.card-body h4{
+ font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:700;
+Color:rgb(0, 57, 79);
+font-size:24px;
+line-height:29px;
+}
+.small-icons span{
+margin-left:5px;
+}
+.small-icons  i{
+    color:#17a2b8;
+    text-align:center;
+}
+.card-body p{
+ font-Family:Nunito, sans-serif;
+font-style:normal;
+font-weight:400;
+Color:rgb(102, 102, 102);
+font-size:16px;
+line-height:24px;
+
+}
+.large-button{
+    border:none;
+    background-color:#17a2b8;
+    border-radius:25px;
+    font-size:16px;
+    padding:10px 30px 10px 30px;
+    text-align:center;
+}
+.large-button a{
+    color:white;
+    text-decoration:none;
+}
+.large-button:hover{
+    background-color:rgb(48, 138, 150);
+}
+.large-button a:hover{
+    color:white;
+}
+.footer{
+    background-color:#012736;
+   padding:100px 0px 50px 0px;
+}
+.logo{
+    margin-bottom:50px;
+}
+.logo img{
+    margin-right:15px;
+   
+}
+.logo span{
+color:white;
+font-Family:Nunito, sans-serif;
+font-style:normal;
+font-weight:700;
+font-size:40px;
+line-height:40px;
+
+}
+.logo h5{
+  font-Family:Nunito, sans-serif;
+font-style:normal;
+font-weight:400;
+Color:rgb(255, 255, 255);
+font-size:16px;
+line-height:24px;
+padding-top:25px;
+padding-bottom:20px;
+}
+.icons i{
+    border-radius:50%;
+   border:1px solid #17a2b8;
+    width:100%;
+    font-size:15px;
+    color:#169fb5;
+    padding:10px 15px;
+    margin-right:5px;
+}
+.icons i:hover{
+    background-color:#17a2b8;
+    color:white;
+}
+.foot{
+    margin-bottom:50px;
+}
+.foot h2{
+ font-Family:Handlee, cursive;
+ font-style:normal;
+font-weight:700;
+color:rgb(23, 162, 184);
+font-size:28px;
+line-height:34px;
+padding-bottom:25px;
+}
+.foot h3{
+    font-Family:Handlee, cursive;
+    font-style:normal;
+    font-weight:700;
+    Color:rgb(255, 255, 255);
+     font-size:20px;
+     line-height:24px;
+    
+}
+.foot i{
+    color:rgb(23, 162, 184);
+    margin-right:10px;
+    font-size:20px;
+}
+.foot p{
+    font-Family:Nunito, sans-serif;
+font-style:normal;
+font-weight:400;
+Color:white;
+font-size:16px;
+line-height:24px;
+}
+.typer{
+    margin-bottom:50px;
+}
+.typer h2{
+ font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:700;
+Color:rgb(23, 162, 184);
+font-size:28px;
+line-height:34px;
+padding-bottom:25px;
+}
+.typer h3 {
+    font-Family:Nunito, sans-serif;
+    font-style:normal;
+    font-weight:400;
+    Color:white;
+    font-size:16px;
+    line-height:24px;
+}
+.typer h3 i {
+    margin-right:5px;
+    color:white;
+    font-size:14px;
+}
+.typer h3 a{
+    color:white;
+    text-decoration:none;
+}
+.typer h3 a:hover{
+    text-decoration:underline;
+
+}
+.news{
+    color:white;
+    margin-bottom:50px;
+}
+.news h2{
+  font-Family:Handlee, cursive;
+   font-style:normal;
+font-weight:700;
+Color:rgb(23, 162, 184);
+font-size:28px;
+line-height:34px;
+padding-bottom:25px;
+}
+.news button{
+    border:none;
+    border-radius:25px;
+    background-color:rgb(23, 162, 184);
+    padding:15px 100px 15px 100px;
+}
+.news button:hover{
+    background-color:rgb(48, 138, 150);
+}
+
+.news button a{
+    color:white;
+    text-decoration:none;
+}
+.news button a:hover{
+    color:white;
+}
+.text-color{
+    color:rgb(23, 162, 184);
+}
+.back-to-top {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    z-index: 11;
+    animation: action 1s infinite alternate;
+   
+}
+
+
+
+
+
+
+
+/*aboout page starts*/
+
+.banner{
+    background-color:#17a2b8;
+    padding:150px 0px 150px 0px;
+}
+.headings-3{
+    text-align:center;
+    color:white;
+}
+.headings-3 h1{
+    color:white;
+    font-size:72px;
+  font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:700;
+color:rgb(255, 255, 255);
+line-height:86px;
+
+}
+.headings-3 h3{
+    font-family:Nunito, sans-serif;
+    font-style:normal;
+    font-weight:400;
+    color:rgb(255, 255, 255);
+    font-size:16px;
+     line-height:24px;
+
+}
+
+.teachers-2{
+  padding:75px 0px 75px 0px;
+    text-align:center;
+}
+.teachers-2 h2{
+font-family:Nunito, sans-serif;
+font-style:normal;
+font-weight:400;
+color:rgb(23, 162, 184);
+font-size:16px;
+line-height:24px;
+
+}
+.teachers-2 h1{
+font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:600;
+color:rgb(0, 57, 79);
+font-size:40px;
+line-height:48px;
+padding-bottom:25px;
+}
+
+/*aboout page ends*/
+/*classes page start*/
+.header-1{
+    padding:100px 0px 100px 0px;
+}
+/*classes page end*/
+
+
+/*teachers page start*/
+.teacher-image1 img{
+    border-radius:50%;
+    width:100%;
+ object-fit:cover;
+    padding-bottom:20px;
+    position:relative;
+    overflow:hidden;
+}
+
+.teacher-image1 h3{
+  font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:700;
+Color:rgb(0, 57, 79);
+font-size:24px;
+line-height:29px;
+}
+.teacher-image1 p{
+ font-Family:Nunito, sans-serif;
+font-style:italic;
+font-weight:400;
+color:rgb(102, 102, 102);
+font-size:16px;
+line-height:24px;
+
+}
+
+.testi1{
+  padding:75px 0px 75px 0px;
+    text-align:center;
+}
+.testi1 h2{
+ font-Family:Nunito, sans-serif;
+font-style:normal;
+font-weight:400;
+Color:rgb(23, 162, 184);
+font-size:16px;
+line-height:24px;
+
+
+}
+.testi1 h1{
+ font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:700;
+Color:rgb(0, 57, 79);
+font-size:40px;
+line-height:48px;
+padding-bottom:25px;
+}
+.testi-card{
+    box-shadow:0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) ;
+    border-radius:15px;
+}
+
+
+
+/*teachers page ends*/
+
+/*gallery section starts */
+.gallery{
+    padding:100px 0px 100px 0px;
+    text-align:center;
+}
+.gallery h2{
+ font-Family:Nunito, sans-serif;
+font-style:normal;
+font-weight:400;
+Color:rgb(23, 162, 184);
+font-size:16px;
+line-height:24px;
+
+}
+.gallery h1{
+  font-Family:Handlee, cursive;
+font-style:normal;
+font-weight:700;
+Color:rgb(0, 57, 79);
+font-size:40px;
+line-height:48px;
+}
